@@ -14,8 +14,6 @@ Everything runs in the visitor's browser. **No file is ever uploaded, stored or 
 
 **Try it now: [zetaserv.site](https://zetaserv.site)**
 
-![ZetaServ light theme](docs/screenshot-light.png)
-
 ## Highlights
 
 | | |
@@ -30,8 +28,6 @@ Everything runs in the visitor's browser. **No file is ever uploaded, stored or 
 | **Works offline** | All libraries are bundled locally — once the page is loaded it needs no network |
 | **Light + dark theme** | Respects your OS preference; remembers your choice |
 | **No build step** | Plain HTML, CSS and JavaScript — nothing to compile, nothing to install |
-
-![ZetaServ dark theme](docs/screenshot-dark.png)
 
 ## Built for digital evidence work
 
